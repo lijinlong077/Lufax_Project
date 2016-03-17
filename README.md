@@ -1,2 +1,2 @@
-# testProject
-this is project desc
+# LufaxProject
+A TEST PROJECT IN LUFAX
